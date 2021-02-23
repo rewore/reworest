@@ -2,7 +2,7 @@
 <p align="center">
 <h4 align="center"></h4>
 <p align="center">
- <a href="https://discord.com/users/743836433252483133" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profile%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://discord.com/users/796998596460675112" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profile%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://github.com/berquates" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/lnq4b6w28b4rmyrzdsky06t69?si=b1d134c6c22f4d4d" target"blank_"><img src="https://img.shields.io/badge/Spotify%20aCCOUNT%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/reworeasy" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -10,7 +10,7 @@
  
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="reworést Spotify Playing" width="350" />](https://open.spotify.com/user/lnq4b6w28b4rmyrzdsky06t69?si=b1d134c6c22f4d4d)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="reworést Spotify Playing" width="350" />](https://open.spotify.com/user/lnq4b6w28b4rmyrzdsky06t69?si=607c259fd8aa49b6)
 
  ### Languages and Tools:
 
